@@ -5,4 +5,4 @@ Hola! Me gusta mucho la musica, Jugar videojuegos y estoy en Mi proceso de forma
 ## Contact me
 Mientras Continuo aprendiendo en PseInt, mejoro mi logica de programacion!, lo cual me permitira una rapida adaptacion a los diferentes tipos de lenguajes de programacion.
 ## Hobbies
-Jugar, Cantar, Tocar Guitarra, Jugar Tenis de Mesa
+Me Gusta Jugar, Cantar, Tocar Guitarra, Jugar Tenis de Mesa
